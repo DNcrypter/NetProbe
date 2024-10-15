@@ -4,8 +4,8 @@
 **NetProbe** is a high-performance port scanning CLI tool designed to quickly identify open ports on target systems. By leveraging the power of threading, NetProbe ensures fast and efficient scanning, making it an essential tool for network administrators and security professionals.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
-[![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
+        [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
 ## Features
 
