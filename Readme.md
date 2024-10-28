@@ -1,5 +1,5 @@
 
-# NetProbe
+# 🕸 NetProbe
 
 **NetProbe** is a high-performance port scanning CLI tool designed to quickly identify open ports on target systems. By leveraging the power of threading, NetProbe ensures fast and efficient scanning, making it an essential tool for network administrators and security professionals.
 
@@ -7,14 +7,14 @@
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
         [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
-## Features
+## 📚 Features
 
 - **High-Speed Scanning**: Utilizes threading to enhance scanning speed.
 - **Comprehensive Reports**: Provides detailed output of scanned ports.
 - **Easy to Use**: Simple command-line interface for quick deployment and usage.
 - **Customizable Options**: Allows users to specify target IP ranges and port lists.
 
-## Installation
+## 🛠 Installation
 
 1. **Clone the Repository**
    ```bash
@@ -32,7 +32,7 @@
   ```
 
 
-## Usage
+## 📱Usage
 
 Navigate to Scripts folder
 ```bash 
@@ -51,7 +51,7 @@ Example
  python adv_scanner.py -t 192.168.1.1 -p 1-65535
 ```
 
-## Contributing
+## 🍁 Contributing
 
-Contributions are welcome! Please fork this repository and submit a pull request.
+Contributions are welcome! Mark Star this repository.You can fork this repository and submit a pull request.
 
