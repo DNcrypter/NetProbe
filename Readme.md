@@ -50,7 +50,7 @@ Example
  python adv_scanner.py -t 192.168.1.1 -p 1-65535
 ```
 
-## 🍁 Contributing
+## 🍁 Contributions
 
 Contributions are welcome! Mark Star this repository.You can fork this repository and submit a pull request.
 
