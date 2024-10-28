@@ -39,8 +39,7 @@ Navigate to Scripts folder
 cd Scripts
 ```
 
-To run the basic scan
-
+To run the basic scan  
 ```bash
 python adv_scanner.py -t target_ip -p ports
  ```
